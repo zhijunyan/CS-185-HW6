@@ -46,14 +46,11 @@ export class App extends Component{
 
     {
       id:5,
-<<<<<<< HEAD
       title: 'Movies'
     },
     
     {
       id:6,
-=======
->>>>>>> 257e298754f569434a2c5cc81e16ff2e6432980a
       title: 'Form'
     }
     
@@ -77,7 +74,7 @@ export class App extends Component{
         <div className ="nav-bar"> 
           
 
-          < TabList tabs={tabs} 
+          <TabList tabs={tabs} 
           changeTab={this.changeTab}
             
           activeTab={this.state.activeTab} />
