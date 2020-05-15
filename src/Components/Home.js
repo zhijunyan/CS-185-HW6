@@ -20,11 +20,9 @@ export class Home extends Component{
 				Assignment 3: √<br></br>
 				Assignment 4: √<br></br>
 				Assignment 5: √<br></br>
-<<<<<<< HEAD
 				Assignment 6: √<br></br>
 =======
 				Assignment 6: T.B.A<br></br>
->>>>>>> 257e298754f569434a2c5cc81e16ff2e6432980a
 				Assignment 7: T.B.A<br></br>
 				Assignment 8: T.B.A</h2>
 			
